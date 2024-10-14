@@ -1,6 +1,8 @@
 # Terraform AWS VPC and EC2 Setup
 
 This repository contains Terraform code to provision a basic AWS infrastructure, including a Virtual Private Cloud (VPC), subnets, an Internet Gateway, a security group, an EC2 instance with a web server, an Application Load Balancer (ALB), and an Auto Scaling Group (ASG). This setup is designed to help you get started with AWS infrastructure management using Terraform.
+![AWS 3-Tier-Archutecture](https://github.com/user-attachments/assets/0b25951d-212f-4230-9449-07c096d95a03)
+
 
 ## Prerequisites
 
